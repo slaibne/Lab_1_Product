@@ -1,0 +1,3 @@
+000001, Flour, Wheat, 10.0
+000002, Quilt, Handwoven, 90.0
+000003, Sword, Damascus Blade, 1800.0
